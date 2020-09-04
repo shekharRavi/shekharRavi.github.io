@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All News | Ravi Shekhar</title>
+    <link>/news/</link>
+      <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>All News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>All News</title>
+      <link>/news/</link>
+    </image>
+    
+    <item>
+      <title>Area Chair for EACL 2021</title>
+      <link>/news/eacl-2021/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/news/eacl-2021/</guid>
+      <description>&lt;p&gt;I am an Area Chair for EACL 2021: Dialogue and Interactive Systems track.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted in JLCL 2020</title>
+      <link>/news/jlcl-2020/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/news/jlcl-2020/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian&amp;rdquo; is accepted in The Journal for Language Technology and Computational Linguistics (JLCL) Special Issue on Offensive Language
+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Outstanding Reviewer EMNLP 2019 !!! </title>
+      <link>/news/emnlp-2019-review/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/news/emnlp-2019-review/</guid>
+      <description>&lt;p&gt;Ravi was a reviewer EMNLP 2019, and was recognised as outstanding reviewer by the area chair!!!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at CLiC-it 2019</title>
+      <link>/news/clic-it-2019/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/news/clic-it-2019/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Jointly learning to see, ask, decide when to stop, and then GuessWhat&amp;rdquo; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Italian Conference on Computational Linguistics (CLiC-it), 2019 .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at SemDial 2019</title>
+      <link>/news/semdial-2019/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/news/semdial-2019/</guid>
+      <description>&lt;p&gt;&amp;quot;
+The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game&amp;rdquo; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Workshop on the Semantics and Pragmatics of Dialogue (SemDial), 2019.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Started Post-Doctoral Research</title>
+      <link>/news/post-doc-2019/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/news/post-doc-2019/</guid>
+      <description>&lt;p&gt;Joined as a Post-Doctoral Researcher in the Computational Linguistics Lab at the Queen Mary University of London working with Matthew Purver. I will be working on the EMBEDDIA project.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PhD Done !!!</title>
+      <link>/news/phd/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>/news/phd/</guid>
+      <description>&lt;p&gt;Defended my PhD thesis titled: &amp;ldquo;Learning to merge-language and vision: A deep evaluation of the encoder, the role of the two modalities, the role of the training task.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at IWCS 2019</title>
+      <link>/news/iwcs-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/news/iwcs-2019/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Evaluating the Representational Hub of Language and Vision Models&amp;rdquo; paper is accepted at 13&lt;sup&gt;th&lt;/sup&gt; International Conference on Computational Semantics (IWCS), 2019.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at NAACL 2019</title>
+      <link>/news/naacl-2019/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/news/naacl-2019/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat&amp;rdquo; paper is accepted as Long-Oral at 17&lt;sup&gt;th&lt;/sup&gt; Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at COLING 2018</title>
+      <link>/news/coling-2018/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>/news/coling-2018/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Ask No More: Deciding when to guess in referential visual dialogue&amp;rdquo; paper is accepted as Oral at 27&lt;sup&gt;th&lt;/sup&gt; International Conference on Computational Linguistics (COLING), 2018.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at IWCS 2017</title>
+      <link>/news/iwcs-2017/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/news/iwcs-2017/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Vision and Language Integration: Moving beyond Objects&amp;rdquo; paper is accepted at 12&lt;sup&gt;th&lt;/sup&gt; International Conference on Computational Semantics (IWCS), 2017.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ACL 2017</title>
+      <link>/news/acl-2017/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/news/acl-2017/</guid>
+      <description>&lt;p&gt;&amp;ldquo;FOIL it! Find One mismatch between Image and Language caption&amp;rdquo; paper is accepted as Long-Oral at 55&lt;sup&gt;th&lt;/sup&gt; Association for Computational Linguistics (ACL), 2017.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

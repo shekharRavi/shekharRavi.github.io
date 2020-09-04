@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raquel Fernández | Ravi Shekhar</title>
+    <link>/author/raquel-fernandez/</link>
+      <atom:link href="/author/raquel-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raquel Fernández</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/raquel-fernandez/avatar_hua36c9cf930fbfb1508294a67448594c0_2940737_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Raquel Fernández</title>
+      <link>/author/raquel-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>Jointly Learning to See, Ask, Decide when to Stop, and then GuessWhat</title>
+      <link>/publication/shekhar-etal-2019-jointly/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-jointly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game</title>
+      <link>/publication/testoni-etal-2019-devil/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/testoni-etal-2019-devil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Representational Hub of Language and Vision Models</title>
+      <link>/publication/shekhar-etal-2019-evaluating/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-evaluating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat</title>
+      <link>/publication/shekhar-etal-2019-beyond/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask No More: Deciding when to guess in referential visual dialogue</title>
+      <link>/publication/shekhar-etal-2018-ask/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2018-ask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

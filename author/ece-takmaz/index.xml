@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ece Takmaz | Ravi Shekhar</title>
+    <link>/author/ece-takmaz/</link>
+      <atom:link href="/author/ece-takmaz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ece Takmaz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/ece-takmaz/avatar_hub57be2ea79fa11f1a16a1f3c5148b9d5_28223_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Ece Takmaz</title>
+      <link>/author/ece-takmaz/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the Representational Hub of Language and Vision Models</title>
+      <link>/publication/shekhar-etal-2019-evaluating/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-evaluating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

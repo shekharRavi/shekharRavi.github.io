@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elia Bruni | Ravi Shekhar</title>
+    <link>/author/elia-bruni/</link>
+      <atom:link href="/author/elia-bruni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elia Bruni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/elia-bruni/avatar_hucf63609946de50176a84510d2c9a53bf_3207420_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Elia Bruni</title>
+      <link>/author/elia-bruni/</link>
+    </image>
+    
+    <item>
+      <title>Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat</title>
+      <link>/publication/shekhar-etal-2019-beyond/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask No More: Deciding when to guess in referential visual dialogue</title>
+      <link>/publication/shekhar-etal-2018-ask/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2018-ask/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

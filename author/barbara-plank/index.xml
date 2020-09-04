@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Plank | Ravi Shekhar</title>
+    <link>/author/barbara-plank/</link>
+      <atom:link href="/author/barbara-plank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barbara Plank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/barbara-plank/avatar_hue88b5ff14a1742559f9dcfeb2bd4eb4c_36489_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Barbara Plank</title>
+      <link>/author/barbara-plank/</link>
+    </image>
+    
+    <item>
+      <title>Beyond task success: A closer look at jointly learning to see, ask, and GuessWhat</title>
+      <link>/publication/shekhar-etal-2019-beyond/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2019-beyond/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
