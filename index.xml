@@ -5,12 +5,25 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Two master&#39;s student defended their thesis</title>
+      <link>/news/master-thesis-2020/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/news/master-thesis-2020/</guid>
+      <description>&lt;p&gt;Congratulations to Cara and Tunde for defending their master&amp;rsquo;s thesis, co-supervised with 
+&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.caraevangeline.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cara&lt;/a&gt; defended her thesis titled &amp;ldquo;Evaluation of Knowledge Transfer in GuessWhat!? Game&amp;rdquo;,  she systematically evaluated the knowledge transfer from one task to another in GuessWhat!? Game. &lt;/p&gt;
+&lt;p&gt;Tunde in his thesis titled &amp;ldquo;EDA for hate speech classification study&amp;rdquo; explores which EDA is useful for the hate speech classification in the unbalanced dataset. &lt;/p&gt;
+&lt;p&gt;Both did amazing work based in a short time frame, with everything going on. &lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Area Chair for EACL 2021</title>
@@ -232,7 +245,7 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;li&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;: Babatunde Shofolawe Bakare, Master Thesis, Queen Mary University of London&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2019-2020&lt;/strong&gt;: Cara Evangeline Chandra Mohan, Master Thesis, Queen Mary University of London&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2018-2019&lt;/strong&gt;: Ece Takmaz, Master summer project, University of Amsterdam&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt;: Mingjun Duan, Undergraduate summer internship, Visting University of Trento from CMU&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt;: Mingjun Duan, Undergraduate summer internship, visiting University of Trento from CMU&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt;: Aashish Venkatesh, Master summer project &amp;amp; Thesis, University of Amsterdam&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt;: Tim Baumgärtner, Master summer project, University of Amsterdam&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt;: Nikos Kondylidis, Master summer project, University of Amsterdam&lt;/li&gt;
@@ -256,7 +269,7 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Reviewer&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2020&lt;/strong&gt;: Peer J Computer Science(1), AACL-IJCNLP(3), COLING(6), EMNLP(6), NeurIPS(3), SemEval-Task3(1), OHARS(2)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2020&lt;/strong&gt;: Peer J Computer Science(1), AACL-IJCNLP(3), COLING(7), EMNLP(6), NeurIPS(3), SemEval-Task3(1), OHARS(2)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2019&lt;/strong&gt;: ACL(5), EMNLP-IJCNLP(5), NeurIPS(5), NoDaLiDa(2), ICON(4), ACM Transactions
 on Multimedia Computing, Communications, and Applications(1), LANTERN(3)&lt;/li&gt;
 &lt;/ul&gt;
