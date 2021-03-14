@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marko Robnik-Šikonja | Ravi Shekhar</title>
+    <link>/author/marko-robnik-sikonja/</link>
+      <atom:link href="/author/marko-robnik-sikonja/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marko Robnik-Šikonja</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/marko-robnik-sikonja/avatar_hu6f3c23fc1502f7ed2431a5974243d3c1_325380_270x270_fill_lanczos_center_2.png</url>
+      <title>Marko Robnik-Šikonja</title>
+      <link>/author/marko-robnik-sikonja/</link>
+    </image>
+    
+    <item>
+      <title>EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions</title>
+      <link>/publication/pollak-etal-2021-embeddia/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pollak-etal-2021-embeddia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

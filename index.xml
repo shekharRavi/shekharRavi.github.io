@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ravi Shekhar</title>
@@ -13,7 +13,32 @@
     </image>
     
     <item>
-      <title>Two master&#39;s student defended their thesis</title>
+      <title>EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions</title>
+      <link>/publication/pollak-etal-2021-embeddia/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pollak-etal-2021-embeddia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two paper accepted at a Workshop@EACL 2021 </title>
+      <link>/news/eacl-w-2021/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/news/eacl-w-2021/</guid>
+      <description>&lt;p&gt;One shot paper on analysing the zero-shot capacity of the offensive language titled &amp;ldquo;Zero-shot Cross-lingual Content Filtering: Offensive Language and Hate Speech Detection&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Another paper on the overview of the EMBEDDIA Tools, Datasets and Challenges  titled &amp;ldquo;EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions&amp;rdquo; .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zero-shot Cross-lingual Content Filtering: Offensive Language and Hate Speech Detection</title>
+      <link>/publication/pelicon-etal-2021-zero/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pelicon-etal-2021-zero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two master students defended their thesis</title>
       <link>/news/master-thesis-2020/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/news/master-thesis-2020/</guid>
@@ -148,6 +173,14 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
     </item>
     
     <item>
+      <title>Learning to see from experience: But which experience is more propaedeutic?</title>
+      <link>/publication/shekhar-etal-2018-learning/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>One paper accepted at COLING 2018</title>
       <link>/news/coling-2018/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
@@ -160,6 +193,14 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
       <link>/publication/shekhar-etal-2017-vision/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>/publication/shekhar-etal-2017-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision and Language Integration: Moving beyond Objects</title>
+      <link>/publication/shekhar-etal-2017b-vision/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2017b-vision/</guid>
       <description></description>
     </item>
     
@@ -293,23 +334,27 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/blaz-skrlj&#34;&gt;Blaž Škrlj&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/blaz-skrlj&#34;&gt;Blaž Škrlj&lt;/a&gt;(2)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/marko-pranjic&#34;&gt;Marko Pranjić&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/marko-pranjic&#34;&gt;Marko Pranjić&lt;/a&gt;(2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/author/elaine-zosa&#34;&gt;Elaine Zosa&lt;/a&gt;(1)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;during-phd&#34;&gt;During Ph.D.&lt;/h2&gt;

@@ -3,8 +3,153 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/antoine-doucet/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/boshko-koloski/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carl-gustav-linden/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/elaine-zosa/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/emanuela-boros/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pollak-etal-2021-embeddia/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hannu-toivonen/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ivar-krustok/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/janez-kranjc/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jose-moreno/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leo-leppanen/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/linda-freiental/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luis-adrian-cabrera-diego/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marko-robnik-sikonja/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-znidarsic/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matej-martinc/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matej-ulcar/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michele-boggia/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nada-lavrac/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/salla-salmela/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shane-sheehan/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/silver-traat/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tarmo-paju/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/eacl-w-2021/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vid-podecan/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pelicon-etal-2021-zero/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,17 +168,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/shekhar-etal-2020-automating/</loc>
-    <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
   </url>
   
@@ -108,6 +243,26 @@
   </url>
   
   <url>
+    <loc>/publication-type/5/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/claudio-greco/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/shekhar-etal-2018-learning/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nikos-kondylidis/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/news/coling-2018/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
   </url>
@@ -115,6 +270,11 @@
   <url>
     <loc>/publication/shekhar-etal-2017-vision/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/shekhar-etal-2017b-vision/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
