@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Investigating cross-lingual training for offensive language detection</title>
+      <link>/publication/pelicon-etal-2021-investigating/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/pelicon-etal-2021-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted in PeerJ Computer Science </title>
+      <link>/news/peerj-2021/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>/news/peerj-2021/</guid>
+      <description>&lt;p&gt;One paper on analysing the cross-lingual training for the offensive language titled &amp;ldquo;Investigating cross-lingual training for offensive language detection&amp;rdquo; is accepted in PeerJ Computer Science.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions</title>
