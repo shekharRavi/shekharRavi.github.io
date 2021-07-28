@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model</title>
+      <link>/publication/zosa-etal-2021-not/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zosa-etal-2021-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at RANLP 2021 </title>
+      <link>/news/ranlp-2021/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/news/ranlp-2021/</guid>
+      <description>&lt;p&gt;One paper on the comment moderation titled &amp;ldquo;Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model &amp;quot; is accepted at the 13th biennial International Conference Recent Advances in Natural Language Processing (RANLP).&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Investigating cross-lingual training for offensive language detection</title>
@@ -350,19 +366,19 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(3)&lt;/p&gt;
+&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(5)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(3)&lt;/p&gt;
+&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(4)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(3)&lt;/p&gt;
+&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(4)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/blaz-skrlj&#34;&gt;Blaž Škrlj&lt;/a&gt;(2)&lt;/p&gt;
+&lt;a href=&#34;/author/blaz-skrlj&#34;&gt;Blaž Škrlj&lt;/a&gt;(3)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -370,7 +386,11 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/elaine-zosa&#34;&gt;Elaine Zosa&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/elaine-zosa&#34;&gt;Elaine Zosa&lt;/a&gt;(2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;/author/mladen-karan&#34;&gt;Mladen Karan&lt;/a&gt;(1)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;during-phd&#34;&gt;During Ph.D.&lt;/h2&gt;

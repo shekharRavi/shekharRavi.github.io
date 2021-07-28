@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mladen Karan | Ravi Shekhar</title>
+    <link>/author/mladen-karan/</link>
+      <atom:link href="/author/mladen-karan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mladen Karan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/mladen-karan/avatar_hu0a88f6be59ef6d2ca633be3bca6195ba_125875_270x270_fill_q90_lanczos_center.jpeg</url>
+      <title>Mladen Karan</title>
+      <link>/author/mladen-karan/</link>
+    </image>
+    
+    <item>
+      <title>Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model</title>
+      <link>/publication/zosa-etal-2021-not/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zosa-etal-2021-not/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

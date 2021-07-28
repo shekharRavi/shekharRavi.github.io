@@ -5,12 +5,20 @@
     <link>/author/elaine-zosa/</link>
       <atom:link href="/author/elaine-zosa/index.xml" rel="self" type="application/rss+xml" />
     <description>Elaine Zosa</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/elaine-zosa/avatar_hua42060e3b054c7d54a55c1d0bc9202cf_393940_270x270_fill_q90_lanczos_center.jpeg</url>
       <title>Elaine Zosa</title>
       <link>/author/elaine-zosa/</link>
     </image>
+    
+    <item>
+      <title>Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model</title>
+      <link>/publication/zosa-etal-2021-not/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zosa-etal-2021-not/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions</title>
