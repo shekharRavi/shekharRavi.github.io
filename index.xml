@@ -5,12 +5,125 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congrats Maladen for LEDA dataset paper acceptance</title>
+      <link>/news/findings-acl-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/findings-acl-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset&amp;rdquo; paper is accepted in Findings of the Association for Computational Linguistics: ACL 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congrats Prashant on ACL paper</title>
+      <link>/news/acl-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/acl-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Tracing Linguistic Markers of Influence in a Large Online Organisation&amp;rdquo; paper is accepted in he Association for Computational Linguistics: ACL 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset</title>
+      <link>/publication/karan-etal-2023-leda/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/karan-etal-2023-leda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Linguistic Markers of Influence in a Large Online Organisation</title>
+      <link>/publication/khare-etal-2023-tracing/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/khare-etal-2023-tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats Raneem for IEEE Access paper</title>
+      <link>/news/ieee-access-2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/ieee-access-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Target-Oriented Investigation of Online Abusive Attacks: A Dataset and Analysis&amp;rdquo; paper is accepted in IEEE Access ( Volume: 11).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Target-Oriented Investigation of Online Abusive Attacks: A Dataset and Analysis</title>
+      <link>/publication/alharthi-etal-2023-target-oriented/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/alharthi-etal-2023-target-oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Machine Translation for Low-resource Languages: A Survey</title>
+      <link>/publication/ranathunga-etal-2023-neural/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ranathunga-etal-2023-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMT Survey for the low-resource language accepted</title>
+      <link>/news/nmt-survey-2023/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/news/nmt-survey-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Neural Machine Translation for Low-resource Languages: A Survey&amp;rdquo; paper is in Association for Computing Machinery.&lt;/p&gt;
+&lt;p&gt;The work started started at ICML Workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Started Lecturer position!!!</title>
+      <link>/news/uessex-2023/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/uessex-2023/</guid>
+      <description>&lt;p&gt;After wonderful 3.5+ years at the QMUL, I started as a Lecturer in the CSEE, University of Essex, UK.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CoRAL dataset paper accepted</title>
+      <link>/news/aacl-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/news/aacl-2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CoRAL: a Context-aware Croatian Abusive Language Dataset&amp;rdquo; paper is accepted at Findings of the Association for Computational Linguistics: AACL-IJCNLP, 2022.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CoRAL: a Context-aware Croatian Abusive Language Dataset</title>
+      <link>/publication/shekhar-etal-2022-coral/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2022-coral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Area Chair for EACL 2023</title>
+      <link>/news/eacl-2023/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/news/eacl-2023/</guid>
+      <description>&lt;p&gt;I am an Area Chair for EACL 2023: Dialogue and Interactive Systems track.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congratulation, Gayatri on LREC acceptance</title>
+      <link>/news/lrec-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/news/lrec-2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CWID-hi: A Dataset for Complex Word Identification in Hindi Text&amp;rdquo; paper is accepted at 13&lt;sup&gt;rd&lt;/sup&gt; Language Resources and Evaluation Conference (LREC), 2022.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CWID-hi: A Dataset for Complex Word Identification in Hindi Text</title>
+      <link>/publication/venugopal-etal-2022-cwid/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/venugopal-etal-2022-cwid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model</title>
@@ -145,7 +258,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/news/semdial-2019/</guid>
       <description>&lt;p&gt;&amp;quot;
-The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game&amp;rdquo; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Workshop on the Semantics and Pragmatics of Dialogue (SemDial), 2019.&lt;/p&gt;</description>
+The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game&amp;quot; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Workshop on the Semantics and Pragmatics of Dialogue (SemDial), 2019.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -306,7 +419,8 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;/ul&gt;
 &lt;h3 id=&#34;work-experience&#34;&gt;&lt;strong&gt;Work Experience&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;2019 - -&lt;/strong&gt; : Research Associate (Postdoctoral Researcher), Computational Linguistics Lab, QMUL, London, UK&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023 - -&lt;/strong&gt; : Lecturer, CSEE, University of Essex, UK&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019 - 2023&lt;/strong&gt; : Research Associate (Postdoctoral Researcher), Computational Linguistics Lab, QMUL, London, UK&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2015-2019&lt;/strong&gt;: Graduate Research Assistant, Language, Interaction and Computation Laboratory, UniTN, Trento, Italy&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2017-2017&lt;/strong&gt;: Visiting Researcher, Dialogue Modelling Group, UvA, Amsterdam, Netherlands&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2013-2014&lt;/strong&gt;: Research Assistant, Multimedia Signal Processing Lab, UM, Kuala Lumpur, Malaysia&lt;/li&gt;
@@ -329,6 +443,7 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Area Chair&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2023&lt;/strong&gt;: EACL (Dialogue and Interactive Systems track).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2021&lt;/strong&gt;: EACL (Dialogue and Interactive Systems track).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;

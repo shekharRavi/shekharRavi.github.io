@@ -5,12 +5,28 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Target-Oriented Investigation of Online Abusive Attacks: A Dataset and Analysis</title>
+      <link>/publication/alharthi-etal-2023-target-oriented/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/alharthi-etal-2023-target-oriented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Machine Translation for Low-resource Languages: A Survey</title>
+      <link>/publication/ranathunga-etal-2023-neural/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/ranathunga-etal-2023-neural/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investigating cross-lingual training for offensive language detection</title>

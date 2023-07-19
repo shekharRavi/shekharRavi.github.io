@@ -1,483 +1,381 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/colin-perkins/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/findings-acl-2023/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/acl-2023/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/gareth-tyson/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ignacio-castro/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/karan-etal-2023-leda/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mladen-karan/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/patrick-healey/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/prashant-khare/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/stephen-mcquistin/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/khare-etal-2023-tracing/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/arkaitz-zubiaga/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/ieee-access-2023/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/rajwa-alharthi/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/raneem-alharthi/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/alharthi-etal-2023-target-oriented/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/en-shiun-annie-lee/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/marjana-prifti-skenduli/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mehreen-alam/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ranathunga-etal-2023-neural/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/nmt-survey-2023/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/rishemjit-kaur/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/surangika-ranathunga/</loc>
+    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/uessex-2023/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/aacl-2022/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/shekhar-etal-2022-coral/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/eacl-2023/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/lrec-2022/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/venugopal-etal-2022-cwid/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/dhanya-pramod/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/gayatri-venugopal/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/elaine-zosa/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mladen-karan/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/zosa-etal-2021-not/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/ranlp-2021/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pelicon-etal-2021-investigating/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/peerj-2021/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/antoine-doucet/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/boshko-koloski/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carl-gustav-linden/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/emanuela-boros/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pollak-etal-2021-embeddia/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hannu-toivonen/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ivar-krustok/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/janez-kranjc/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jose-moreno/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/leo-leppanen/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/linda-freiental/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/luis-adrian-cabrera-diego/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/marko-robnik-sikonja/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/martin-znidarsic/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/matej-martinc/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/matej-ulcar/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/michele-boggia/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nada-lavrac/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/salla-salmela/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/shane-sheehan/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/silver-traat/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/tarmo-paju/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/eacl-w-2021/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vid-podecan/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pelicon-etal-2021-zero/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/master-thesis-2020/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/eacl-2021/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2020-automating/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/jlcl-2020/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/emnlp-2019-review/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2019-jointly/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/clic-it-2019/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/testoni-etal-2019-devil/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/semdial-2019/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2019-evaluating/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/post-doc-2019/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2019-beyond/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/phd/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/iwcs-2019/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/naacl-2019/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2018-ask/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/5/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/claudio-greco/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2018-learning/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nikos-kondylidis/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/coling-2018/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2017-vision/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2017b-vision/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/iwcs-2017/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2017-foil/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/acl-2017/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pezzelle-etal-2016-building/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-jawahar-2013-document/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/krishnan-etal-2012-content/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/shekhar-etal-2012-word/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/cv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-04T20:40:21+01:00</lastmod>
+  </url><url>
     <loc>/outreach/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-04T20:40:21+01:00</lastmod>
+  </url><url>
     <loc>/author/aashish-venkatesh/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alberto-testoni/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/news/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/andraz-pelicon/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/aurelie-herbelot/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/barbara-plank/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/blaz-skrlj/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/cv-jawahar/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ece-takmaz/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/elia-bruni/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/enver-sangineto/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/marko-pranjic/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/matthew-purver/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/moin-nabi/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/praveen-krishnan/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/collaborators/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/raffaella-bernardi/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/raquel-fernandez/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ravi-shekhar/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/presentations/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/sandro-pezzelle/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/senja-pollak/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/tim-baumgartner/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yauhen-klimovich/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
   </url>
-  
 </urlset>

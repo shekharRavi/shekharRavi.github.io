@@ -7,10 +7,75 @@
     <description>All News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>All News</title>
       <link>/news/</link>
     </image>
+    
+    <item>
+      <title>Congrats Maladen for LEDA dataset paper acceptance</title>
+      <link>/news/findings-acl-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/findings-acl-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset&amp;rdquo; paper is accepted in Findings of the Association for Computational Linguistics: ACL 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congrats Prashant on ACL paper</title>
+      <link>/news/acl-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/news/acl-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Tracing Linguistic Markers of Influence in a Large Online Organisation&amp;rdquo; paper is accepted in he Association for Computational Linguistics: ACL 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congrats Raneem for IEEE Access paper</title>
+      <link>/news/ieee-access-2023/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/news/ieee-access-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Target-Oriented Investigation of Online Abusive Attacks: A Dataset and Analysis&amp;rdquo; paper is accepted in IEEE Access ( Volume: 11).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NMT Survey for the low-resource language accepted</title>
+      <link>/news/nmt-survey-2023/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>/news/nmt-survey-2023/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Neural Machine Translation for Low-resource Languages: A Survey&amp;rdquo; paper is in Association for Computing Machinery.&lt;/p&gt;
+&lt;p&gt;The work started started at ICML Workshop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Started Lecturer position!!!</title>
+      <link>/news/uessex-2023/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/news/uessex-2023/</guid>
+      <description>&lt;p&gt;After wonderful 3.5+ years at the QMUL, I started as a Lecturer in the CSEE, University of Essex, UK.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CoRAL dataset paper accepted</title>
+      <link>/news/aacl-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/news/aacl-2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CoRAL: a Context-aware Croatian Abusive Language Dataset&amp;rdquo; paper is accepted at Findings of the Association for Computational Linguistics: AACL-IJCNLP, 2022.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Area Chair for EACL 2023</title>
+      <link>/news/eacl-2023/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/news/eacl-2023/</guid>
+      <description>&lt;p&gt;I am an Area Chair for EACL 2023: Dialogue and Interactive Systems track.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Congratulation, Gayatri on LREC acceptance</title>
+      <link>/news/lrec-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/news/lrec-2022/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CWID-hi: A Dataset for Complex Word Identification in Hindi Text&amp;rdquo; paper is accepted at 13&lt;sup&gt;rd&lt;/sup&gt; Language Resources and Evaluation Conference (LREC), 2022.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>One paper accepted at RANLP 2021 </title>
@@ -89,7 +154,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/news/semdial-2019/</guid>
       <description>&lt;p&gt;&amp;quot;
-The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game&amp;rdquo; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Workshop on the Semantics and Pragmatics of Dialogue (SemDial), 2019.&lt;/p&gt;</description>
+The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogue Game&amp;quot; paper is accepted at 23&lt;sup&gt;rd&lt;/sup&gt; Workshop on the Semantics and Pragmatics of Dialogue (SemDial), 2019.&lt;/p&gt;</description>
     </item>
     
     <item>

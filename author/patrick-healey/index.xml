@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Healey | Ravi Shekhar</title>
+    <link>/author/patrick-healey/</link>
+      <atom:link href="/author/patrick-healey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Healey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Patrick Healey</title>
+      <link>/author/patrick-healey/</link>
+    </image>
+    
+    <item>
+      <title>LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset</title>
+      <link>/publication/karan-etal-2023-leda/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/karan-etal-2023-leda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Linguistic Markers of Influence in a Large Online Organisation</title>
+      <link>/publication/khare-etal-2023-tracing/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/khare-etal-2023-tracing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
