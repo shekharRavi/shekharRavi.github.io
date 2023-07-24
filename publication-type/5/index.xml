@@ -5,12 +5,20 @@
     <link>/publication-type/5/</link>
       <atom:link href="/publication-type/5/index.xml" rel="self" type="application/rss+xml" />
     <description>5</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>5</title>
       <link>/publication-type/5/</link>
     </image>
+    
+    <item>
+      <title>Power and Vulnerability: Managing Sensitive Language in Organisational Communication</title>
+      <link>/publication/healey-etal-2023-power/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/healey-etal-2023-power/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to see from experience: But which experience is more propaedeutic?</title>
