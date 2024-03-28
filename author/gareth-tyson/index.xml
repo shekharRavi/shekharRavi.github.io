@@ -5,12 +5,28 @@
     <link>/author/gareth-tyson/</link>
       <atom:link href="/author/gareth-tyson/index.xml" rel="self" type="application/rss+xml" />
     <description>Gareth Tyson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Gareth Tyson</title>
       <link>/author/gareth-tyson/</link>
     </image>
+    
+    <item>
+      <title>Power and Vulnerability: Managing Sensitive Language in Organisational Communication</title>
+      <link>/publication/healey-etal-2024-power/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/healey-etal-2024-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making the Pick: Understanding Professional Editor Comment Curation in Online News</title>
+      <link>/publication/he-etal-2024-pick/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/he-etal-2024-pick/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset</title>

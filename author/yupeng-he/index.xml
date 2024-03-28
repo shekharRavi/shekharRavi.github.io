@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yupeng He | Ravi Shekhar</title>
+    <link>/author/yupeng-he/</link>
+      <atom:link href="/author/yupeng-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yupeng He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Yupeng He</title>
+      <link>/author/yupeng-he/</link>
+    </image>
+    
+    <item>
+      <title>Making the Pick: Understanding Professional Editor Comment Curation in Online News</title>
+      <link>/publication/he-etal-2024-pick/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/he-etal-2024-pick/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
