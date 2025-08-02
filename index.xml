@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models</title>
+      <link>/publication/loginova-etal-2025-addressing/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/loginova-etal-2025-addressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats Olga, Oleksandr and Alexey  on ACL paper</title>
+      <link>/news/acl-2025/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/news/acl-2025/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models&amp;rdquo; paper is accepted in he Association for Computational Linguistics: ACL 2025.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Website Update !!!</title>
+      <link>/news/gap-2025/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/news/gap-2025/</guid>
+      <description>&lt;p&gt;Updating the website after more than a year. Hope to update it regularly. In the meantime, the ELOQUENCE project started, Yuchen joined as SRO, Karthik as KTP Associate &amp;amp; PhD, and Abdul as KTP Associate&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Denoising Labeled Data for Comment Moderation Using Active Learning</title>
@@ -556,15 +580,15 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(5)&lt;/p&gt;
+&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(11)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(4)&lt;/p&gt;
+&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(5)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(4)&lt;/p&gt;
+&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(5)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
@@ -580,7 +604,7 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;
-&lt;a href=&#34;/author/mladen-karan&#34;&gt;Mladen Karan&lt;/a&gt;(1)&lt;/p&gt;
+&lt;a href=&#34;/author/vanja-karan&#34;&gt;Vanja M Karan&lt;/a&gt;(7)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;during-phd&#34;&gt;During Ph.D.&lt;/h2&gt;

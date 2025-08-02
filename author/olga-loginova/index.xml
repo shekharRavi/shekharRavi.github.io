@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olga Loginova | Ravi Shekhar</title>
+    <link>/author/olga-loginova/</link>
+      <atom:link href="/author/olga-loginova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Olga Loginova</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Olga Loginova</title>
+      <link>/author/olga-loginova/</link>
+    </image>
+    
+    <item>
+      <title>Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models</title>
+      <link>/publication/loginova-etal-2025-addressing/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/loginova-etal-2025-addressing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
