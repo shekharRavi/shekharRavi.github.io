@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mladen Karan | Ravi Shekhar</title>
+    <link>/author/mladen-karan/</link>
+      <atom:link href="/author/mladen-karan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mladen Karan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Mladen Karan</title>
+      <link>/author/mladen-karan/</link>
+    </image>
+    
+    <item>
+      <title>Denoising Labeled Data for Comment Moderation Using Active Learning</title>
+      <link>/publication/pelicon-etal-2024-denoising/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/pelicon-etal-2024-denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power and Vulnerability: Managing Sensitive Language in Organisational Communication</title>
+      <link>/publication/healey-etal-2024-power/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/healey-etal-2024-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LEDA: a Large-Organization Email-Based Decision-Dialogue-Act Analysis Dataset</title>
+      <link>/publication/karan-etal-2023-leda/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/karan-etal-2023-leda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing Linguistic Markers of Influence in a Large Online Organisation</title>
+      <link>/publication/khare-etal-2023-tracing/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/khare-etal-2023-tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power and Vulnerability: Managing Sensitive Language in Organisational Communication</title>
+      <link>/publication/healey-etal-2023-power/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/healey-etal-2023-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoRAL: a Context-aware Croatian Abusive Language Dataset</title>
+      <link>/publication/shekhar-etal-2022-coral/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shekhar-etal-2022-coral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model</title>
+      <link>/publication/zosa-etal-2021-not/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/zosa-etal-2021-not/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
