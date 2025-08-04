@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chathulanka Gamage | Ravi Shekhar</title>
+    <link>/author/chathulanka-gamage/</link>
+      <atom:link href="/author/chathulanka-gamage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chathulanka Gamage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Chathulanka Gamage</title>
+      <link>/author/chathulanka-gamage/</link>
+    </image>
+    
+    <item>
+      <title>Use of prompt-based learning for code-mixed and code-switched text classification</title>
+      <link>/publication/udawatta-etal-2024-use/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/udawatta-etal-2024-use/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
