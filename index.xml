@@ -5,12 +5,61 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>2 papers accepted at LREC&#39; 26. Congrats, Yuchen and OasisSimp team</title>
+      <link>/news/lrec-2026/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/news/lrec-2026/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Speak in Context: Multilingual ASR with Speech–Context Alignment via Contrastive Learning&amp;rdquo;  and &amp;ldquo;OasisSimp: An Open-source Asian-English Sentence Simplification Dataset&amp;rdquo; papers are accepted at the 15&lt;sup&gt;th&lt;/sup&gt; biennial Language Resources and Evaluation Conference (LREC 2026) .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OasisSimp: An Open-source Asian-English Sentence Simplification Dataset</title>
+      <link>/publication/liu-etal-2026-oasissimp/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-etal-2026-oasissimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speak in Context: Multilingual ASR with Speech–Context Alignment via Contrastive Learning</title>
+      <link>/publication/zhang-etal-2026-speak/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-speak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats Yuchen on One paper accepted at EACL 2026.</title>
+      <link>/news/eacl-2026/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/news/eacl-2026/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries&amp;rdquo; paper is accepted at 19&lt;sup&gt;th&lt;/sup&gt; Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries</title>
+      <link>/publication/zhang-etal-2026-language/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple People joined the team.</title>
+      <link>/news/team-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/news/team-2026/</guid>
+      <description>&lt;p&gt;2023 onwards, Yuchen, Charlotte, Karthik, Abdul, Sam, Isak, and Manisha joined in different capacities.&lt;/p&gt;
+&lt;p&gt;Welcome All !!!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models</title>

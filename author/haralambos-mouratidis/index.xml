@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haralambos Mouratidis | Ravi Shekhar</title>
+    <link>/author/haralambos-mouratidis/</link>
+      <atom:link href="/author/haralambos-mouratidis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haralambos Mouratidis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Haralambos Mouratidis</title>
+      <link>/author/haralambos-mouratidis/</link>
+    </image>
+    
+    <item>
+      <title>Speak in Context: Multilingual ASR with Speech–Context Alignment via Contrastive Learning</title>
+      <link>/publication/zhang-etal-2026-speak/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-speak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries</title>
+      <link>/publication/zhang-etal-2026-language/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
