@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/news/impact-speech-2026/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2026-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news/speakable-2026/</loc>
+    <lastmod>2026-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ganesh-pavan-kartikeya-bharadwaj-kolluri/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/michael-kampouridis/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/kolluri-etal-2026-on/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/lrec-2026/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/blair-yang/</loc>
@@ -38,13 +62,7 @@
     <loc>/author/pakawat-nakwijit/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/qiaoyiwen-wu/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/zhang-etal-2026-speak/</loc>
@@ -257,9 +275,6 @@
     <loc>/news/peerj-2021/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/antoine-doucet/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -470,8 +485,6 @@
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
   </url><url>
     <loc>/author/isak-suleyman/</loc>
-  </url><url>
-    <loc>/author/karthik-kolluri/</loc>
   </url><url>
     <loc>/author/marko-pranjic/</loc>
     <lastmod>2020-09-04T20:40:21+01:00</lastmod>
