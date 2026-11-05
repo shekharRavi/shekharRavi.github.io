@@ -5,12 +5,28 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection</title>
+      <link>/publication/zhang-etal-2026-clara/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-clara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning</title>
+      <link>/publication/kolluri-etal-2026-card/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-card/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OasisSimp: An Open-source Asian-English Sentence Simplification Dataset</title>

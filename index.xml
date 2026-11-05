@@ -5,12 +5,88 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Shekhar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Ravi Shekhar</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Congrats Yuchen on 1 paper accepted at ACM MM&#39;26</title>
+      <link>/news/clara-2026/</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>/news/clara-2026/</guid>
+      <description>&lt;p&gt;&amp;ldquo;CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection&amp;rdquo; paper is accepted at the 34th ACM International Conference on Multimedia (ACM MM), 2026. Congratulations to Yuchen and the team!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/zhang-etal-2026-clara/&#34;&gt;Read the publication&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IMPACT-SPEECH Workshop @EMNLP&#39;26 successfully completed</title>
+      <link>/news/impact-speech-2026-completed/</link>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/news/impact-speech-2026-completed/</guid>
+      <description>&lt;p&gt;We successfully organized the 
+&lt;a href=&#34;https://impactspeech.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMPACT-SPEECH Workshop&lt;/a&gt; at EMNLP 2026 on 29 October 2026 in Budapest, Hungary. The workshop brought together researchers to discuss identifying, measuring, preventing, and assessing bias in speech LLMs.&lt;/p&gt;
+&lt;p&gt;Thank you to our invited speakers, authors, reviewers, participants, and fellow organizers for making the workshop a success!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://impactspeech.github.io/#program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop program&lt;/a&gt; · 
+&lt;a href=&#34;https://aclanthology.org/volumes/2026.impactspeech-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Proceedings&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR</title>
+      <link>/publication/zhang-etal-2026-preserve/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-preserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR</title>
+      <link>/publication/bravo-bravo-etal-2026-intercorrect/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bravo-bravo-etal-2026-intercorrect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congrats Karthik on 2 papers accepted at IMPACT-SPEECH@EMNLP&#39;26 and SLT&#39;26</title>
+      <link>/news/impact-speech-paper-2026/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/news/impact-speech-paper-2026/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs&amp;rdquo; paper is accepted at the IMPACT-SPEECH Workshop at EMNLP, 2026.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning&amp;rdquo; paper is accepted at the IEEE Spoken Language Technology Workshop (SLT), 2026.&lt;/p&gt;
+&lt;p&gt;Congratulations to Karthik and the team!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;/publication/kolluri-etal-2026-pruning/&#34;&gt;IMPACT-SPEECH publication&lt;/a&gt; · 
+&lt;a href=&#34;/publication/kolluri-etal-2026-card/&#34;&gt;SLT publication&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs</title>
+      <link>/publication/kolluri-etal-2026-pruning/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection</title>
+      <link>/publication/zhang-etal-2026-clara/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-clara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning</title>
+      <link>/publication/kolluri-etal-2026-card/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-card/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IMPACT-SPEECH Workshop @EMNLP&#39;26. Consider submitting your work.</title>
@@ -21,10 +97,10 @@
 &lt;a href=&#34;https://impactspeech.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMPACT-SPEECH&lt;/a&gt; Workshop at 
 &lt;a href=&#34;https://2026.emnlp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMNLP&#39;26&lt;/a&gt;, Budapest, Hungary.&lt;/p&gt;
 &lt;p align=&#34;justify&#34;&gt;
-The IMPACT-SPEECH workshop aims to bring together researchers, practitioners, developers, and end-users from diverse fields, including speech processing, 
-natural language processing, machine learning, social sciences, fairness, and ethics, to address these challenges. 
-The workshop seeks to foster collaboration and build a coherent research agenda around bias in speechLLMs. Through interdisciplinary exchange, 
-the workshop aims to advance methods for identifying, measuring, preventing, and assessing the consequences of bias, while examining the real-world consequences 
+The IMPACT-SPEECH workshop aims to bring together researchers, practitioners, developers, and end-users from diverse fields, including speech processing,
+natural language processing, machine learning, social sciences, fairness, and ethics, to address these challenges.
+The workshop seeks to foster collaboration and build a coherent research agenda around bias in speechLLMs. Through interdisciplinary exchange,
+the workshop aims to advance methods for identifying, measuring, preventing, and assessing the consequences of bias, while examining the real-world consequences
 of these systems, particularly in terms of fairness, accessibility, ethical responsibility, and societal impacts.
 &lt;/p&gt;
 &lt;p&gt;Please consider submitting your work.&lt;/p&gt;</description>
@@ -124,6 +200,14 @@ of these systems, particularly in terms of fairness, accessibility, ethical resp
       <link>/publication/ranathunga-etal-2025-sitse/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       <guid>/publication/ranathunga-etal-2025-sitse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will I Get Hate Speech Predicting the Volume of Abusive Replies before Posting in Social Media</title>
+      <link>/publication/alharthi-etal-2025-will/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/alharthi-etal-2025-will/</guid>
       <description></description>
     </item>
     
@@ -385,12 +469,12 @@ of these systems, particularly in terms of fairness, accessibility, ethical resp
       <link>/news/master-thesis-2020/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/news/master-thesis-2020/</guid>
-      <description>&lt;p&gt;Congratulations to Cara and Tunde for defending their master&amp;rsquo;s thesis, co-supervised with 
-&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;. &lt;/p&gt;
+      <description>&lt;p&gt;Congratulations to Cara and Tunde for defending their master&amp;rsquo;s thesis, co-supervised with 
+&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;
-&lt;a href=&#34;http://www.caraevangeline.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cara&lt;/a&gt; defended her thesis titled &amp;ldquo;Evaluation of Knowledge Transfer in GuessWhat!? Game&amp;rdquo;,  she systematically evaluated the knowledge transfer from one task to another in GuessWhat!? Game. &lt;/p&gt;
-&lt;p&gt;Tunde in his thesis titled &amp;ldquo;EDA for hate speech classification study&amp;rdquo; explores which EDA is useful for the hate speech classification in the unbalanced dataset. &lt;/p&gt;
-&lt;p&gt;Both did amazing work based in a short time frame, with everything going on. &lt;/p&gt;</description>
+&lt;a href=&#34;http://www.caraevangeline.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cara&lt;/a&gt; defended her thesis titled &amp;ldquo;Evaluation of Knowledge Transfer in GuessWhat!? Game&amp;rdquo;,  she systematically evaluated the knowledge transfer from one task to another in GuessWhat!? Game.&lt;/p&gt;
+&lt;p&gt;Tunde in his thesis titled &amp;ldquo;EDA for hate speech classification study&amp;rdquo; explores which EDA is useful for the hate speech classification in the unbalanced dataset.&lt;/p&gt;
+&lt;p&gt;Both did amazing work based in a short time frame, with everything going on.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -671,108 +755,11 @@ The Devil is in the Detail: A Magnifying Glass for the GuessWhich Visual Dialogu
     </item>
     
     <item>
-      <title>Present &amp; Past Collaborators</title>
+      <title>Collaborators</title>
       <link>/collaborators/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/collaborators/</guid>
-      <description>&lt;h2 id=&#34;present&#34;&gt;Present&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/matthew-purver/&#34;&gt;Matthew Purver&lt;/a&gt;(11)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/senja-pollak/&#34;&gt;Senja Pollak&lt;/a&gt;(5)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/andraz-pelicon&#34;&gt;Andraž Pelicon&lt;/a&gt;(5)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/blaz-skrlj&#34;&gt;Blaž Škrlj&lt;/a&gt;(3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/marko-pranjic&#34;&gt;Marko Pranjić&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/elaine-zosa&#34;&gt;Elaine Zosa&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/vanja-karan&#34;&gt;Vanja M Karan&lt;/a&gt;(7)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;during-phd&#34;&gt;During Ph.D.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/raffaella-bernardi/&#34;&gt;Raffaella Bernardi&lt;/a&gt;(8)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/raquel-fernandez/&#34;&gt;Raquel Fernández&lt;/a&gt;(5)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/barbara-plank/&#34;&gt;Barbara Plank&lt;/a&gt;(1)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/aurelie-herbelot/&#34;&gt;Aurélie Herbelot&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/enver-sangineto/&#34;&gt;Enver Sangineto&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/elia-bruni/&#34;&gt;Elia Bruni&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/sandro-pezzelle/&#34;&gt;Sandro Pezzelle&lt;/a&gt;(3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/moin-nabi/&#34;&gt;Moin Nabi&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/aashish-venkatesh/&#34;&gt;Aashish Venkatesh&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/tim-baumgartner/&#34;&gt;Tim Baumgärtner&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/alberto-testoni/&#34;&gt; Alberto Testoni&lt;/a&gt;(2)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/ece-takmaz/&#34;&gt;Ece Takmaz&lt;/a&gt;(1)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/yauhen-klimovich/&#34;&gt;Yauhen Klimovich&lt;/a&gt;(1)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;during-ms&#34;&gt;During M.S.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/cv-jawahar/&#34;&gt;CV Jawahar&lt;/a&gt;(3)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;/author/praveen-krishnan/&#34;&gt;Praveen Krishnan&lt;/a&gt;(1)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

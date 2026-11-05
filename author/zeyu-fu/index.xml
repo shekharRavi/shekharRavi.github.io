@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeyu Fu | Ravi Shekhar</title>
+    <link>/author/zeyu-fu/</link>
+      <atom:link href="/author/zeyu-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeyu Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Zeyu Fu</title>
+      <link>/author/zeyu-fu/</link>
+    </image>
+    
+    <item>
+      <title>CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection</title>
+      <link>/publication/zhang-etal-2026-clara/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-clara/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Ravi Shekhar</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR</title>
+      <link>/publication/zhang-etal-2026-preserve/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-preserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR</title>
+      <link>/publication/bravo-bravo-etal-2026-intercorrect/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bravo-bravo-etal-2026-intercorrect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will I Get Hate Speech Predicting the Volume of Abusive Replies before Posting in Social Media</title>
+      <link>/publication/alharthi-etal-2025-will/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/alharthi-etal-2025-will/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

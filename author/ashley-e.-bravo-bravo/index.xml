@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley E. Bravo-Bravo | Ravi Shekhar</title>
+    <link>/author/ashley-e.-bravo-bravo/</link>
+      <atom:link href="/author/ashley-e.-bravo-bravo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashley E. Bravo-Bravo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Ashley E. Bravo-Bravo</title>
+      <link>/author/ashley-e.-bravo-bravo/</link>
+    </image>
+    
+    <item>
+      <title>InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR</title>
+      <link>/publication/bravo-bravo-etal-2026-intercorrect/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bravo-bravo-etal-2026-intercorrect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

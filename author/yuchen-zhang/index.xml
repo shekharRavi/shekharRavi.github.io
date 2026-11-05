@@ -5,12 +5,44 @@
     <link>/author/yuchen-zhang/</link>
       <atom:link href="/author/yuchen-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuchen Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 26 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Yuchen Zhang</title>
       <link>/author/yuchen-zhang/</link>
     </image>
+    
+    <item>
+      <title>Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR</title>
+      <link>/publication/zhang-etal-2026-preserve/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-preserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR</title>
+      <link>/publication/bravo-bravo-etal-2026-intercorrect/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bravo-bravo-etal-2026-intercorrect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection</title>
+      <link>/publication/zhang-etal-2026-clara/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-clara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning</title>
+      <link>/publication/kolluri-etal-2026-card/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-card/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Speak in Context: Multilingual ASR with Speech–Context Alignment via Contrastive Learning</title>

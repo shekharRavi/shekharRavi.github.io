@@ -13,6 +13,46 @@
     </image>
     
     <item>
+      <title>Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR</title>
+      <link>/publication/zhang-etal-2026-preserve/</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-preserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR</title>
+      <link>/publication/bravo-bravo-etal-2026-intercorrect/</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/bravo-bravo-etal-2026-intercorrect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs</title>
+      <link>/publication/kolluri-etal-2026-pruning/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-pruning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARA: Clip-Level Multimodal Alignment with VLM-Derived Rationales for Hateful Video Detection</title>
+      <link>/publication/zhang-etal-2026-clara/</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-etal-2026-clara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARD: Cross-component Audio Representation Distillation for Encoder-Free Audio Captioning</title>
+      <link>/publication/kolluri-etal-2026-card/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kolluri-etal-2026-card/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR</title>
       <link>/publication/kolluri-etal-2026-on/</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
@@ -57,6 +97,14 @@
       <link>/publication/ranathunga-etal-2025-sitse/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
       <guid>/publication/ranathunga-etal-2025-sitse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will I Get Hate Speech Predicting the Volume of Abusive Replies before Posting in Social Media</title>
+      <link>/publication/alharthi-etal-2025-will/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/alharthi-etal-2025-will/</guid>
       <description></description>
     </item>
     
